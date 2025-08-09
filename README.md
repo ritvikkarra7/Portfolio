@@ -8,7 +8,7 @@ I specialize in **analog electronics, with experience in optical, RF, and audio 
 
 | Project | Description | Skills, Tools & Technologies |
 |---------|-------------|--------------|
-| **[Synthesizer Project](projects/01-synthesizer/README.md)** | A completely digital, user-friendly, handheld synthesizer made for beginners to understand the fundamentals of electronic sounds. | Sound generation, real-time control & signal processing |
+| **[Synthesizer Project](https://github.com/ritvikkarra7/synthesizer/blob/main/README.md)** | A completely digital, user-friendly, handheld synthesizer made for beginners to understand the fundamentals of electronic sounds. | Sound generation, real-time control & signal processing |
 | ![Theremin Project](docs/img/theremin_complete.png) <br> **[Theremin Project](projects/02-multimodal-theremin/README.md)** | A theremin (non-contact musical instrument) which features a digital _and_ analog sensing modality, which can be switched between in a custom webpage. | Capacitive sensing, web interface, analog design, I2S, I2C |
 | ![Webcam Project](docs/img/webcam.png) <br> **[Livestreaming Webcam](projects/03-livestream-webcam/README.md)** | Atmel SAM4S8B powered design that captures and livestreams images to a custom website. | Image processing, I2C, UART, SPI |
 | ![VLSI Design](docs/img/6T_SRAM_Layout.png) <br> **[VLSI Design](projects/04-VLSI-design/README.md)** | Designed a 6T SRAM cell and multiple logic standard cells, performing schematic capture, layout, DRC/LVS checks, and timing verification.  | CMOS analog/digital design, Cadence Virtuoso, SPICE simulation, transistor sizing, parasitic extraction, timing analysis |
