@@ -49,8 +49,8 @@ Camera → Microcontroller → Wi-Fi Module → Webpage
 ---
 
 ## 📷 Media
-![PCB Bottom Layer](docs/img/webcam_bottom_pcb.png) 
-![PCB Top Layer](docs/img/webcam_top_pcb.png) 
+![PCB Bottom Layer](webcam_bottom_pcb.png) 
+![PCB Top Layer](webcam_top_pcb.png) 
 ---
 
 ## 🧰 Skills & Tools
