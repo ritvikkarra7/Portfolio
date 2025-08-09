@@ -1,4 +1,4 @@
-# Ritvik Karra – Electrical Engineer Portfolio
+# Ritvik Karra – Portfolio
 
 I specialize in **analog electronics, with experience in optical, RF, and audio systems**. I’m a hands-on engineer who loves building and taking ownership of my work. This portfolio features images/details on my projects. 
 
