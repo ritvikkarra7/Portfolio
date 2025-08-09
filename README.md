@@ -1,8 +1,6 @@
 # Ritvik Karra – Electrical Engineer Portfolio
 
-Welcome to my project portfolio!  
-I specialize in **embedded systems, PCB design, signal processing, and control systems**.  
-Here you’ll find a curated selection of my engineering projects with **full documentation, code, and design files**.
+I specialize in **analog electronics, with experience in optical, RF, and audio systems**. I’m a hands-on engineer who loves building, and this portfolio features projects with full documentation, code, and design files.
 
 ---
 
@@ -10,7 +8,7 @@ Here you’ll find a curated selection of my engineering projects with **full do
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| ![Smart Sensor Network](docs/img/sensor_thumb.jpg) <br> **[Smart Sensor Network](projects/01-smart-sensor-network/README.md)** | IoT sensor nodes transmitting environmental data to a cloud dashboard. | ESP32, MQTT, KiCad |
+| ![Theremin Project](docs/img/sensor_thumb.jpg) <br> **[Smart Sensor Network](projects/01-smart-sensor-network/README.md)** | IoT sensor nodes transmitting environmental data to a cloud dashboard. | ESP32, MQTT, KiCad |
 | ![Power Supply](docs/img/psu_thumb.jpg) <br> **[Programmable Power Supply](projects/02-programmable-power-supply/README.md)** | MCU-controlled lab PSU with adjustable voltage/current and OLED display. | STM32, KiCad, C++ |
 | ![Audio DSP](docs/img/audio_thumb.jpg) <br> **[DSP Audio Effects Pedal](projects/03-dsp-audio-effects/README.md)** | Real-time audio effects implemented on microcontroller. | ARM Cortex-M4, FreeRTOS, KiCad |
 
