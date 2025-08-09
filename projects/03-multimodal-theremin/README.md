@@ -45,5 +45,3 @@ theremin (“Hands-Off”) which uses various sensing mechanisms to control pitc
 ![PCB Enclosure with PCB and Speaker](theremin_part.png) 
 
 ---
-
-
