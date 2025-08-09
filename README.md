@@ -28,8 +28,8 @@ I specialize in **analog electronics, with experience in optical, RF, and audio 
 
 ## 📬 Contact
 
-- **LinkedIn:** [linkedin.com/in/ritvikkarra](https://linkedin.com/in/ritvikkarra)
-- **Email:** your.email@example.com
-- **GitHub:** [github.com/ritvik-karra](https://github.com/ritvik-karra)
+- **LinkedIn:** [https://www.linkedin.com/in/ritvik-karra-b96718196/](https://www.linkedin.com/in/ritvik-karra-b96718196/)
+- **Email:** ritvikkarra7@gmail.com, ritvikkarra2025@u.northwestern.edu
+- **GitHub:** [github.com/ritvik-karra](https://github.com/ritvikkarra7)
 
 ---
