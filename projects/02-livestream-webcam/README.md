@@ -4,16 +4,10 @@
 This project involved designing a **custom webcam** capable of streaming images to a **custom-built webpage**.  
 The system integrates a **camera module**, **microcontroller**, and **Wi-Fi chip** into a compact, custom PCB with a 3D-printed enclosure.
 
-**Key Components:**
+**Main Components:**
 - **Camera Module:** OV2640
 - **Microcontroller:** Atmel SAM4S8B
 - **Wi-Fi Module:** ESP32-WROOM
-
-**Key Responsibilities:**
-- Soldering and assembling circuit with breakout boards
-- Writing microcontroller firmware for image streaming (C)
-- Designing and soldering a compact PCB
-- Designing a custom enclosure in Onshape (CAD)
 
 ---
 
@@ -22,13 +16,6 @@ The system integrates a **camera module**, **microcontroller**, and **Wi-Fi chip
 Camera → Microcontroller → Wi-Fi Module → Webpage
 
 ---
-
-## 🛠 Implementation Details
-
-### 1. Circuit Assembly with Breakout Boards
-- Soldered microcontroller, Wi-Fi, and camera breakout boards
-- Consulted datasheets to ensure correct pin connections and functionality mapping
-- Used unused pins where possible for expansion/debugging
 
 ### 2. Firmware Development
 - Written in **C** for Atmel SAM4S8B
@@ -41,7 +28,6 @@ Camera → Microcontroller → Wi-Fi Module → Webpage
 
 ### 3. Enclosure Design
 - Designed in **Onshape**
-- Considered user interaction:
   - Camera cutout
   - Power LED visibility
   - Access to control buttons and power jack
@@ -51,13 +37,6 @@ Camera → Microcontroller → Wi-Fi Module → Webpage
 ## 📷 Media
 ![PCB Bottom Layer](webcam_bottom_pcb.png) 
 ![PCB Top Layer](webcam_top_pcb.png) 
----
+![Enclosure](enclosure.png) 
 
-## 🧰 Skills & Tools
-- **Embedded Systems:** C programming, UART/I²C/SPI communication
-- **Hardware Design:** PCB layout & routing (EAGLE/KiCad)
-- **CAD:** Onshape for enclosure design
-- **Prototyping:** Soldering, breakout board assembly
-- **Networking:** ESP32 web streaming integration
-- **Debugging:** Iterative hardware/software testing
 
