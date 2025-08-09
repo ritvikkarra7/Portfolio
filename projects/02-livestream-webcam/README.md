@@ -40,7 +40,7 @@ Camera → Microcontroller → Wi-Fi Module → Webpage
 - Main loop handles continuous image acquisition and transmission
 
 ### 3. Enclosure Design
-- Designed in **Onshape**, intended for 3D printing
+- Designed in **Onshape**
 - Considered user interaction:
   - Camera cutout
   - Power LED visibility
