@@ -18,11 +18,11 @@ I specialize in **analog electronics, with experience in optical, RF, and audio 
 
 ## 🛠 Skills
 
-- **Embedded Firmware:** C, C++, FreeRTOS, ESP32, Microchip Studio, L
+- **Programming/Scripting:** C, C++, Python, Bash, C#, MATLAB 
+- **Embedded Firmware:** SP32, Raspberry Pi, Arduino, Microchip Studio, FreeRTOS
 - **PCB Design:** Altium Designer, EAGLE PCB Design
 - **Signal Processing:** MATLAB, Python (NumPy, SciPy)
-- **Power Electronics:** SMPS design, motor control
-- **CAD & Simulation:** LTSpice, Cadence Virtuoso, 
+- **CAD & Simulation:** LTSpice, Verilog, Cadence Virtuoso, OnShape, AutoCAD
 
 ---
 
