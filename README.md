@@ -1,26 +1,28 @@
 # Ritvik Karra – Electrical Engineer Portfolio
 
-I specialize in **analog electronics, with experience in optical, RF, and audio systems**. I’m a hands-on engineer who loves building, and this portfolio features projects with full documentation, code, and design files.
+I specialize in **analog electronics, with experience in optical, RF, and audio systems**. I’m a hands-on engineer who loves building and taking ownership of my work. This portfolio features images/details on my projects. 
 
 ---
 
 ## 📂 Project Gallery
 
-| Project | Description | Technologies |
+| Project | Description | Skills, Tools & Technologies |
 |---------|-------------|--------------|
-| ![Theremin Project](docs/img/sensor_thumb.jpg) <br> **[Smart Sensor Network](projects/01-smart-sensor-network/README.md)** | IoT sensor nodes transmitting environmental data to a cloud dashboard. | ESP32, MQTT, KiCad |
-| ![Power Supply](docs/img/psu_thumb.jpg) <br> **[Programmable Power Supply](projects/02-programmable-power-supply/README.md)** | MCU-controlled lab PSU with adjustable voltage/current and OLED display. | STM32, KiCad, C++ |
-| ![Audio DSP](docs/img/audio_thumb.jpg) <br> **[DSP Audio Effects Pedal](projects/03-dsp-audio-effects/README.md)** | Real-time audio effects implemented on microcontroller. | ARM Cortex-M4, FreeRTOS, KiCad |
-
+| ![Synthesizer](docs/img/theremin_complete.png) <br> **[Theremin Project](projects/01-synthesizer/README.md)** | A completely digital, user-friendly, handheld synthesizer made for beginners to understand the fundamentals of electronic sounds. | Sound generation, real-time control & signal processing |
+| ![Theremin Project](docs/img/theremin_complete.png) <br> **[Theremin Project](projects/02-multimodal-theremin/README.md)** | A theremin (non-contact musical instrument) which features a digital _and_ analog sensing modality, which can be switched between in a custom webpage. | Capacitive sensing, web interface, analog design, I2S, I2C |
+| ![Webcam Project](docs/img/webcam.png) <br> **[Livestreaming Webcam](projects/03-livestream-webcam/README.md)** | Atmel SAM4S8B powered design that captures and livestreams images to a custom website. | Image processing, I2C, UART, SPI |
+| ![VLSI Design](docs/img/6T_SRAM_Layout.png) <br> **[VLSI Design](projects/04-VLSI-design/README.md)** | Designed a 6T SRAM cell and multiple logic standard cells, performing schematic capture, layout, DRC/LVS checks, and timing verification.  | CMOS analog/digital design, Cadence Virtuoso, SPICE simulation, transistor sizing, parasitic extraction, timing analysis |
+| ![Optical Coherence Tomography](docs/img/penny.png) <br> **[VLSI Design](projects/05-optical-coherence-tomography/README.md)** | Optimized performance of imaging system using Swept-Source Optical Coherence Tomography to test a novel photodetector. | Optical bench,  C#-based image processing, MATLAB for image visualization, device physics |
+| ![Lacrosse Goalkeeper Robot](docs/img/lacrosse_goalie.gif) <br> **[VLSI Design](projects/06-lacrosse-goalkeeper-robot/README.md)** | Part of a team that built an autonomous Lacrosse goalkeeper that tracked and saved a ball | Motor control, computer vision, control systems |
 ---
 
 ## 🛠 Skills
 
-- **Embedded Firmware:** C, C++, FreeRTOS, Arduino, STM32 HAL
-- **PCB Design:** KiCad, Altium Designer
+- **Embedded Firmware:** C, C++, FreeRTOS, ESP32, Microchip Studio, L
+- **PCB Design:** Altium Designer, EAGLE PCB Design
 - **Signal Processing:** MATLAB, Python (NumPy, SciPy)
 - **Power Electronics:** SMPS design, motor control
-- **CAD & Simulation:** Fusion 360, LTSpice
+- **CAD & Simulation:** LTSpice, Cadence Virtuoso, 
 
 ---
 
