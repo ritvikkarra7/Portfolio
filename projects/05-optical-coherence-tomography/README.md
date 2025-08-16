@@ -13,4 +13,4 @@
 - I imaged various samples, such as pennies and onion skins, during my work in the lab. I also improved data acquisition code, characterized the systems power with various photodetectors, and assisted with optical simulations of the system. 
 - Some of my work also included 3-D printing parts for the system to improve its stability. 
 
-[Related reading](https://pubmed.ncbi.nlm.nih.gov/28446793/) from the [Bio-Inspired Sensors and Optoelectronics Laboratory(https://bisol.northwestern.edu/)], where I conducted this research.
+[Related reading](https://pubmed.ncbi.nlm.nih.gov/28446793/) from the [Bio-Inspired Sensors and Optoelectronics Laboratory](https://bisol.northwestern.edu/), where I conducted this research.
